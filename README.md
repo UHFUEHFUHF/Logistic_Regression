@@ -17,7 +17,7 @@ This is a simple Machine Learning project where I built a **Logistic Regression 
 
 ## 🛠️ Tech Stack
 
-- Python 🐍
+- Python 
 - Pandas
 - scikit-learn
 - Jupyter Notebook / Google Colab
